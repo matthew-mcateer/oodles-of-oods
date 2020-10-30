@@ -1,2 +1,3 @@
-# oodles-of-oods
-Taxonomy of Out
+# Oodles of Oods
+
+Taxonomy of out-of-distrubuton errors
